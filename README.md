@@ -3,7 +3,7 @@
 ## Overview
 This repo contains the Jupyter notebooks I worked with in the labs of the NLP course of the Artificial Intelligence MSc programme in Stockholm University.
 
-They are separated in folders with their own description and auxiliary files.
+The notebooks are implemented in Python and are separated in folders with their own description and auxiliary files.
 
 ## Notebooks
 - [Notebook1](Lab_1/)
